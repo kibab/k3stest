@@ -1,0 +1,5 @@
+syntax: glob
+
+.vagrant*
+k3s.kubeconfig
+node-token
